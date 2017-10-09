@@ -1,0 +1,17 @@
+html{
+  background-color: black;
+}
+
+.head1{
+  font-family: verdana;
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+}
+
+.head2{
+  text-align: center;
+  color: aquamarine;
+  font-size: 16px;
+}
